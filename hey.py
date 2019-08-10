@@ -9,4 +9,4 @@ for i in (a["pose"].split()):
     if i[0]!='-':
         i=" "+i
     print(i)
-
+filexml.close()
